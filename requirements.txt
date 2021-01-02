@@ -1,4 +1,4 @@
-cmyui
+cmyui==1.5.7
 py3rijndael
 bcrypt
 aiohttp
