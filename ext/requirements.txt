@@ -1,0 +1,10 @@
+cmyui
+py3rijndael
+bcrypt
+aiohttp
+aiomysql
+orjson
+aiofiles
+uvloop
+mysql-connector-python
+asyncpg
