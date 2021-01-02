@@ -130,4 +130,3 @@ if __name__ == '__main__':
     app.add_tasks({on_start(), disconnect_inactive()})
 
     app.run(glob.config.server_addr) # blocking call
-    print "macaco"
